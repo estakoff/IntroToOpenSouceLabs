@@ -16,3 +16,5 @@ Photos of regex exercises:
 	![exercise5](ex5.png)
 	![exercise6](ex6.png)
 	![exercise7](ex7.png)
+
+	![exercise1-4](finshedex5.png)
