@@ -16,5 +16,6 @@ Photos of regex exercises:
 	![exercise5](ex5.png)
 	![exercise6](ex6.png)
 	![exercise7](ex7.png)
-
+Photos of crosswords:
+	![finishedCrosswords](finishedCrosswords.png)
 	![beginner4](finshedEx5.png)
