@@ -21,3 +21,6 @@ Photos of crosswords:
 	![beginner4](doneCrossWords.png)
 photo of solved blocky:
 	![solvedBlocky](solvedIt.png)
+
+
+I have been considering a few things to do. I was looking at some stock "stuff" and was considering some of my own interests (like overwatch, csgo, lol, and other video games). I thought then about how I could create a ticker type of thing which would scroll games being played, patch notes and updates, important news etc. I thought that this type of thing would be very interesting. Also on this lab I thought it was rather simple if just long. I did enjoy it though and look forward to more. (I wasn't sure if it was a reflection on lab or on the project i was thinking about so i did both).
