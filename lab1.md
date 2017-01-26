@@ -18,4 +18,4 @@ Photos of regex exercises:
 	![exercise7](ex7.png)
 Photos of crosswords:
 	![finishedCrosswords](finishedCrosswords.png)
-	![beginner4](finshedEx5.png)
+	![beginner4](doneCrossWords.png)
