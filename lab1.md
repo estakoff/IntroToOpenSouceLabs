@@ -19,3 +19,5 @@ Photos of regex exercises:
 Photos of crosswords:
 	![finishedCrosswords](finishedCrosswords.png)
 	![beginner4](doneCrossWords.png)
+photo of solved blocky:
+	![solvedBlocky](solvedIt.png)
