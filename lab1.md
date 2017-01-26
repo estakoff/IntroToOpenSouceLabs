@@ -7,3 +7,12 @@ It would seem that the RPI student was totally justified in what he did but the 
 
 photo of man page tree:
 	![manTreePic](screenshotManTree.png)
+
+Photos of regex exercises:
+	![exercise1](ex1Done.png)
+	![exercise2](ex2.png)
+	![exercise3](ex3.png)
+	![exercise4](ex4Done.png)
+	![exercise5](ex5.png)
+	![exercise6](ex6.png)
+	![exercise7](ex7.png)
