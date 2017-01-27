@@ -7,3 +7,8 @@ It is very important not to use unliscensed code someone else made. In the u.s w
 
 3) 
 I think it varies. I do like the idea of having many people working on the code to better improve it faster, but it's also possible that I want to define the "right thing" depending on my purpose. For example if I am primarily developing it for my company to use, I'm going to want it to be compatible with what my company is using already to minimize costs of incorporating the technology in the future.
+
+4) 
+there are many many reasons why GPL was chosen for Linux. Of them I would say a chief reason was the climate and reason for linux's development. The hacker movement. This was a time when people wanted free and open source projects and with BSD or MIT liscense it couldn't be guarenteed that future derivates would be free, but the GPL guarenteed that as soon as your code was distributed it too would be GPL thus allowing you to ensure that your code would be free and open source too.
+
+
