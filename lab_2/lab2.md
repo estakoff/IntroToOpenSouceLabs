@@ -11,4 +11,9 @@ I think it varies. I do like the idea of having many people working on the code 
 4) 
 there are many many reasons why GPL was chosen for Linux. Of them I would say a chief reason was the climate and reason for linux's development. The hacker movement. This was a time when people wanted free and open source projects and with BSD or MIT liscense it couldn't be guarenteed that future derivates would be free, but the GPL guarenteed that as soon as your code was distributed it too would be GPL thus allowing you to ensure that your code would be free and open source too.
 
+5) - liscense chooser
+
+6) 
+For the common good I would say a GPL liscense is the best. It forces you to make your changes public if you want to distribute them which allows the community as a whole to benefit. For a developer I would say an apache/bsd is rather nice and definitely not for a commerical company. The apache liscense allows anyone to work on your stuff and provides experienced developers and companies incentive to use and develop your code b/c they are getting something out of it too. Then they contribute back because it's helping them too. Finally a company would likely want an LGPL or GPL to seperate the proprietary code from the open source, or to simply make it so that everyone will contribute back if they want to distribute theirs making it so noone can take your work spin it off and profit without you being able to take that work too and work on your own.
+
 
