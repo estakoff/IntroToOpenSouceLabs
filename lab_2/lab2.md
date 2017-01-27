@@ -18,3 +18,58 @@ For the common good I would say a GPL liscense is the best. It forces you to mak
 
 7) I'm liking the idea of creating a LoL project that allows the user to view pro games going on, patch updates, buffs/nerfs and more. The users of this project would likely be people who play the game LoL. People that like watching esports. In addition people who casually play LoL but still want to know who to watch out for in the game
 
+
+8)
+
+	1)
+	Website:
+	https://github.com/mmetro/WeirdSideofYouTube/blob/master/LICENSE
+
+	L Present:
+	yes
+
+	Liscense:
+	MIT
+
+	2)
+	Website:
+	https://github.com/jzblee/tally
+
+	L Present:
+	yes
+
+	Liscense:
+	MIT
+
+	3)
+	Website:
+	https://github.com/adriancollado/solum
+
+	L Present:
+	yes
+
+	Liscense:
+	MIT
+	
+	4)
+	Website:
+	https://github.com/mukulio/atomx
+
+	L Present:
+	No
+
+	Liscense:
+	N/a
+
+	5)
+	Website:
+	https://github.com/kburk1997/betterebinder
+
+	L Present:
+	Yes
+
+	Liscense:
+	MIT
+
+
+
