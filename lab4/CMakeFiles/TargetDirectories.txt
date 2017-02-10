@@ -1,1 +1,0 @@
-/home/ubuntu/IntroToOpenSouceLabs/lab4/CMakeFiles/Tutorial.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/IntroToOpenSouceLabs/lab4/tutorial/MathFunctions/mysqrt.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/ubuntu/IntroToOpenSouceLabs/lab4/tutorial/MathFunctions/TutorialConfig.h
+MathFunctions.h
+/home/ubuntu/IntroToOpenSouceLabs/lab4/tutorial/MathFunctions/MathFunctions.h
+
+TutorialConfig.h
+

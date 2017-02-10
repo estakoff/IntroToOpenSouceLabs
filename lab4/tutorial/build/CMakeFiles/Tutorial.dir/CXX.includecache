@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/IntroToOpenSouceLabs/lab4/tutorial/tutorial.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/ubuntu/IntroToOpenSouceLabs/lab4/tutorial/TutorialConfig.h
+
+TutorialConfig.h
+
