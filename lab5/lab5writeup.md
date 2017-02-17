@@ -9,3 +9,5 @@ The two results match exactly as desired. Everything was the same between the tw
 gitVidStarhopper:
 	![start](endshot.png)
 	![end](startscreenshot.png)
+
+there is only the one contributer sooooo thats that.
